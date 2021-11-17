@@ -1,0 +1,32 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Engineering",
+      "Mechanical Engineering",
+      "Microtechnology"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "c9216d3d-991e-efe7-e8d6-e754ae9c59de",
+      "85c4aa5f-def4-ed78-ac2f-7fa3884ff91b",
+      "40a5010f-768b-2baa-3654-c30d44cf1c43",
+      "98c06492-75d3-7843-0908-c67c6f17c333",
+      "b6a7911c-df2b-c358-e803-831719d754ba",
+      "a0f16e50-2187-bc7b-30e2-b96c94485ccb"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Micro/Nano Engineering Laboratory",
+  "course_description": "This course encourages creative thinking through hands-on experience via building, observing and manipulating micro-and nano-scale structures. Students learn about underlying science and engineering principles and possible applications.\n",
+  "department_numbers": [
+    "2"
+  ],
+  "extra_course_numbers": "2.675",
+  "primary_course_number": "2.674",
+  "learning_resource_types": [
+    "Lecture Notes"
+  ],
+  "title": "Course Metadata"
+}
